@@ -1,0 +1,7 @@
+ vehicles.json
+{
+    "301" : "Car",
+    "302" : "Bus",
+    "303" : "Bike",
+    "304" : "Rickshaw"
+}
